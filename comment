@@ -1,0 +1,23 @@
+{
+  "name": "aaaq",
+  "version": "1.0.0",
+  "description": "Hello Tea",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Uk-3me/aaaq.git"
+  },
+  "keywords": [
+    "TEA",
+    "Tutorial"
+  ],
+  "author": "uk3me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Uk-3me/aaaq/issues"
+  },
+  "homepage": "https://github.com/Uk-3me/aaaq#readme"
+}
